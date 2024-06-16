@@ -1,0 +1,8 @@
+extension=.mid
+exists=1
+source=Still Here.mid
+kind=1
+effects=0
+volume=0.89
+pan=0
+preload=1

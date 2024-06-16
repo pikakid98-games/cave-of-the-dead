@@ -1,0 +1,148 @@
++v1.1
+	+music blocks
+		|stop all
+		+midis
+			|title (midi)
+			|training (midi)
+			|level 1 (midi)
+			|level 2 (midi)
+			|level 3 (midi)
+			|level 4 (midi)
+			|level 5 (midi)
+			|boss battle (midi)
+			|final battle (midi)
+			|final battle soul (midi)
+	+title
+		|title
+		|ver
+		|start on
+		|start off
+		|quit on
+		|quit off
+	|wait
+	|mike title
+	|d2 no
+	|d3 no
+	|friend title
++v1.2
+	|PG logo
++v1.3
+	+Launcher
+		+options
+			|nbhpb_obj
+			|edf_obj
+			|lctdrctd_obj
+			|etp_obj
+		|obj_lnch_x
+		|obj_lnch-lg
+		|launcher init
+		|newbosshp unticked
+		|newbosshp ticked
+		|enabledebug unticked
+		|enabledebug ticked
+		|touchprompt unticked
+		|touchprompt ticked
+		+persistant
+			|newbosshp_persist_off
+			|newbosshp_persist_on
+			|enabledebug_persist_off
+			|enabledebug_persist_on
+			|touchprompt_persist_off
+			|touchprompt_persist_on
+		|init_after_lnchr
+	+New Boss HP
+		+bosshp icon+bar
+			|new-hp 1
+			|new-hp 2
+			|new-hp 3
+			|new-hp 4
+			|new-hp 5
+			|new-hp 6
+			|bossicon
+			|empty 1
+			|empty 2
+			|empty 3
+	|oldbosshp_wall
+	|the_end-temp
+	+bosshpdraw
+		|bhpd_nothing
+		|newbosshp draw normal
+		|bhpd_nothing_final
+		|newbosshp draw final
+	|detonator 3 final
+	|obj_debug
+	|debug handler
+	|debug x
+|Mike Caver
+|object1
+|object2
+|door
+|key
++bossHP (OLD)
+	|hp 3
+	|hp 2
+	|hp 1
+	|1 hp off
+	|green 1
+	|green 2
+	|green 3
+	|green 4
+	|green 5
+	|green 6
+	|yellow 1
+	|yellow 2
+	|yellow 3
+	|yellow 4
+	|red 1
+	|red 2
++detonators
+	|detonator 1
+	|detonator 2
+	|detonator 3
+	|detonator 4
+	|detonator 5
+	|final detonator
+|Boss door
+|Boss key
+|object21
+|object22
+|object23
+|guard ghosts
+|boss 1
+|ghost water
+|object33
+|object37
+|object38
+|phantom ghost
+|still ghost
+|dragorn
+|mognorax
+|possessed best friend
+|best friend
+|best friend's spirit
+|fake key
+|fake boss key
+|final boss's flame
+|final boss
+|very final boss's flame
+|1
+|2
+|3
+|4
+|5
+|6
+|final boss's minions
+|lock 1
+|ghost guard 1
+|ghost guard 2
+|ghost guard 3
+|ghost guard 4
+|ghost guard 5
+|hidden door
+|locked book
+|uncompleted book
+|completed book
+|spirit scroll
+|end scroll
+|spirit world book
+|very final boss's flame [revealed]

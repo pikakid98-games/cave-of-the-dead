@@ -1,0 +1,48 @@
++v1.3
+	|launcher
+	|init
++v1.2
+	|PG Intro
++v1.1
+	|title
+|hub
+|training
+|hub 2
+|level 1 area 1
+|level 1 area 2
+|level 1 BOSS
+|scroll room 1
+|hub 3
+|level 2 area 1
+|level 2 area 2
+|level 2 BOSS
+|scroll room 2
+|hub 4
+|level 3 area 1
+|level 3 area 2
+|level 3 BOSS
+|scroll room 3
+|hub 5
+|level 4 area 1
+|level 4 area 2
+|level 4 BOSS
+|scroll room 4
+|hub 6
+|path to the tower
+|level 5 area 1
+|level 5 area 2
+|level 5 MINI-BOSS
+|level 5 area 3
+|level 5 area 4
+|level 5 BOSS
+|scroll room 5
+|hub 7
+|FB area 1
+|FB area 2
+|FB area 3
+|final battle
+|final path
+|the very final battle
+|the credits room
++v1.3
+	|theend_temp

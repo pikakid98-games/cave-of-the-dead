@@ -1,0 +1,8 @@
+extension=.mid
+exists=1
+source=Inner Stampede.mid
+kind=1
+effects=0
+volume=0.85
+pan=0
+preload=1

@@ -1,0 +1,7 @@
+sprite=mike down stop
+visible=1
+solid=1
+persistent=0
+depth=0
+parent=
+mask=mike up

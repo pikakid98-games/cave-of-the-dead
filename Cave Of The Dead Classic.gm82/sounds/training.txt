@@ -1,0 +1,8 @@
+extension=.mid
+exists=1
+source=Dreamed.mid
+kind=1
+effects=0
+volume=0.93
+pan=0
+preload=1

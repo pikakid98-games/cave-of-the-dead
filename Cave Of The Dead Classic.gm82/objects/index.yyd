@@ -1,0 +1,196 @@
+Mike Caver
+object1
+object2
+door
+key
+
+
+
+
+Boss door
+Boss key
+
+
+
+
+
+
+
+
+
+detonator 1
+object21
+object22
+object23
+guard ghosts
+boss 1
+
+
+
+ghost water
+
+hp 3
+
+object33
+hp 2
+1 hp off
+hp 1
+object37
+object38
+
+
+
+detonator 2
+detonator 3
+
+green 1
+yellow 1
+red 1
+green 2
+yellow 2
+red 2
+
+phantom ghost
+still ghost
+dragorn
+mognorax
+possessed best friend
+
+best friend
+best friend's spirit
+fake key
+fake boss key
+final boss's flame
+final boss
+
+detonator 4
+detonator 5
+final detonator
+
+
+
+very final boss's flame
+1
+2
+3
+4
+5
+6
+
+final boss's minions
+lock 1
+ghost guard 1
+ghost guard 2
+ghost guard 3
+ghost guard 4
+ghost guard 5
+hidden door
+locked book
+uncompleted book
+completed book
+spirit scroll
+end scroll
+spirit world book
+
+green 3
+green 4
+green 5
+green 6
+yellow 3
+yellow 4
+
+very final boss's flame [revealed]
+level 1 (midi)
+boss battle (midi)
+final battle (midi)
+level 2 (midi)
+level 3 (midi)
+level 4 (midi)
+level 5 (midi)
+final battle soul (midi)
+training (midi)
+stop all
+d2 no
+d3 no
+
+wait
+mike title
+friend title
+start on
+start off
+title
+
+
+
+
+
+
+
+
+
+
+title (midi)
+
+
+
+
+
+
+
+quit on
+quit off
+ver
+PG logo
+
+
+
+newbosshp draw normal
+newbosshp_persist_off
+
+newbosshp_persist_on
+oldbosshp_wall
+
+newbosshp unticked
+
+launcher init
+newbosshp ticked
+the_end-temp
+obj_lnch_x
+init_after_lnchr
+obj_lnch-lg
+nbhpb_obj
+
+
+
+bhpd_nothing
+empty 1
+empty 2
+empty 3
+bossicon
+new-hp 1
+new-hp 2
+new-hp 6
+new-hp 3
+new-hp 4
+new-hp 5
+newbosshp draw final
+detonator 3 final
+edf_obj
+enabledebug unticked
+enabledebug ticked
+enabledebug_persist_off
+enabledebug_persist_on
+lctdrctd_obj
+obj_debug
+
+
+
+bhpd_nothing_final
+
+touchprompt unticked
+touchprompt ticked
+touchprompt_persist_off
+touchprompt_persist_on
+etp_obj
+debug x
+debug handler

@@ -1,0 +1,8 @@
+extension=.mid
+exists=1
+source=Rock On.mid
+kind=1
+effects=0
+volume=0.92
+pan=0.06
+preload=1

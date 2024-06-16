@@ -1,0 +1,8 @@
+extension=.mid
+exists=1
+source=Allusion World.mid
+kind=1
+effects=0
+volume=0.87
+pan=0
+preload=1
