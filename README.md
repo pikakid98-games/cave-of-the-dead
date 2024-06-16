@@ -13,5 +13,3 @@ My first ever game. Made with Game Maker 8.1. Take control of Mike Caver <s>(Who
 `%GM82%` GameMaker 8.2
 
 </details>
-
-</details>
