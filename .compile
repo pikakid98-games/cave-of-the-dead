@@ -1,1 +1,3 @@
+copy "Cave Of The Dead Classic.gm82\Data" "Output\Data"
+
 "%GM82%" "Cave Of The Dead Classic.gm82\Cave Of The Dead Classic.gm82" --build "Output\Cave Of The Dead Classic.exe"
