@@ -1,3 +1,3 @@
-copy "Cave Of The Dead Classic.gm82\Data" "Output\Data"
+robocopy "Cave Of The Dead Classic.gm82\Data" "Output\Data" /MIR
 
 "%GM82%" "Cave Of The Dead Classic.gm82\Cave Of The Dead Classic.gm82" --build "Output\Cave Of The Dead Classic.exe"
